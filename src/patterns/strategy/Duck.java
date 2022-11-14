@@ -1,4 +1,4 @@
-package src.design_pattern;
+package src.patterns.strategy;
 
 abstract class Duck {
   private FlyBehavior flyBehavior;

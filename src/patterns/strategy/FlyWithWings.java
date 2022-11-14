@@ -1,4 +1,4 @@
-package src.design_pattern;
+package src.patterns.strategy;
 
 public class FlyWithWings implements FlyBehavior {
   public void fly() {

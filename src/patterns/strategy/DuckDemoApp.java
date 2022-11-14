@@ -1,4 +1,4 @@
-package src.design_pattern;
+package src.patterns.strategy;
 
 public class DuckDemoApp {
   public static void main(String[] args) {
