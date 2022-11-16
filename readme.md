@@ -16,3 +16,6 @@ This repo contains all simple source code  to demonstrate design patterns
 ![Decorate pattern!](decorator-1.svg "Decorate Pattern")
 ![Beverage Decorator pattern!](decorator-2.svg "Starbuzz Coffee")
 ![Pizza Decorator pattern!](decorator-3.svg "Pizza store")
+## Iterator Pattern
+![Iterator pattern!](iterator.svg "Iterator Pattern")
+![MenuIteam Iterator pattern!](iterator-1.svg "Cafe Iterator Pattern")
