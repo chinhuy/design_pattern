@@ -19,3 +19,8 @@ This repo contains all simple source code  to demonstrate design patterns
 ## Iterator Pattern
 ![Iterator pattern!](iterator.svg "Iterator Pattern")
 ![MenuIteam Iterator pattern!](iterator-1.svg "Cafe Iterator Pattern")
+## Factory Pattern
+![Simple Factory pattern!](factory-1.svg "Simple Factory Pattern")
+![PizzaStore with Simple Factory pattern!](factory-2.svg "PizzaStore Simple Factory Pattern")
+![Factory Method pattern!](factory-3.svg "Factory Method pattern")
+![Simple Factory pattern!](factory-4.svg "Calendar with Simple Factory pattern")
